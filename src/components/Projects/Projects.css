@@ -1,0 +1,96 @@
+.projects-container{
+    margin: 4rem 0;
+    position: relative;
+}
+
+.projects-container h5{
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-bottom: 3.5rem;
+}
+
+.projects-container::after, 
+.projects-container::before{
+    content: " ";
+    width: 26.135rem;
+    height: 26.125rem;
+    border-radius: 28.125rem;
+    background: #7c66e3;
+    position: absolute;
+    z-index: -1;
+    filter: blur(225px);
+}
+
+.projects-container::after{
+    top: -3rem;
+    left: -5rem;
+    
+}
+
+.projects-container::before{
+    bottom: 2rem;
+    right: 0rem;
+}
+
+/* .projects-content{
+    display: inline;
+    gap:3rem;
+} */
+
+
+
+.projects-content {
+    display: flex; /* Use flexbox for layout */
+    justify-content: center; /* Center the cards horizontally */
+    align-items: center; /* Center the cards vertically */
+    padding: 16px; /* Optional: Add some padding */
+}
+
+.projects-content > div {
+    display: flex; /* Make the child div a flex container */
+    gap: 16px; /* Optional: Add space between cards */
+}
+
+
+@media(max-width:768px)
+{
+    .projects-content{
+        flex-direction: column-reverse;
+    }
+
+    .projects-content > div{
+        flex-direction: column;
+    }
+    .projects-container h5{
+        font-size: 1.3rem;
+        margin-bottom: 2rem;
+    }
+
+    .projects-content{
+        gap: 1rem;
+    }
+
+   
+
+}
+
+@media (max-width: 425px) {
+    .projects-container::after, 
+    .projects-container::before {
+        /* Adjust properties for mobile view */
+        width: 15rem; /* Example adjustment */
+        height: 15rem; /* Example adjustment */
+        filter: blur(150px); /* Example adjustment */
+    }
+
+    .projects-container{
+        margin-bottom: 1.3rem;
+    }
+}
+
+
+@media (max-width: 1300px) {
+    .projects-container {
+        padding: 0 1.5rem;
+    }
+}

@@ -1,0 +1,6 @@
+1. Add bootstrap icon in the hero section- Done
+2. Add projects cards - Done
+3. make the navbar buttons working
+4. add the download resume functionality- Done
+5. Add react form validation 
+6. Add alert after the form submittion

@@ -1,0 +1,43 @@
+.footer-container{
+    border-top: 1px solid #6751ba;
+    background: #1f024a;
+    width: 100%;
+    height: auto;
+    display: grid;
+    place-items: center;
+    
+}
+
+.footer-container h5{
+    color: aliceblue;
+    margin-top: 1rem;
+    font-size: 2rem;
+    width: fit-content;
+}
+
+.icons img{
+    width: 2.5rem;
+    height: 2.5rem;
+    position: relative;
+    margin: 0.5rem 1rem;
+}
+.small-text{
+    color: aliceblue;
+    display: contents;
+}
+
+
+@media(max-width:425px)
+{
+    .footer-container h5{
+        font-size: 1.3rem;
+    }
+
+}
+
+@media(max-width:600px)
+{
+    .footer-container h5{
+        font-size: 1.3rem;
+    }
+}
