@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/sid-portfolio/static/css/main.33f8a218.css",
+    "main.css": "/sid-portfolio/static/css/main.c0c82d8f.css",
     "main.js": "/sid-portfolio/static/js/main.b0d6269b.js",
     "static/js/453.1b3ba629.chunk.js": "/sid-portfolio/static/js/453.1b3ba629.chunk.js",
     "static/media/SiddheshDHOBALE_Resume.pdf": "/sid-portfolio/static/media/SiddheshDHOBALE_Resume.98c5afca39627b60347d.pdf",
@@ -9,12 +9,12 @@
     "static/media/slick.ttf": "/sid-portfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/sid-portfolio/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/sid-portfolio/index.html",
-    "main.33f8a218.css.map": "/sid-portfolio/static/css/main.33f8a218.css.map",
+    "main.c0c82d8f.css.map": "/sid-portfolio/static/css/main.c0c82d8f.css.map",
     "main.b0d6269b.js.map": "/sid-portfolio/static/js/main.b0d6269b.js.map",
     "453.1b3ba629.chunk.js.map": "/sid-portfolio/static/js/453.1b3ba629.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.33f8a218.css",
+    "static/css/main.c0c82d8f.css",
     "static/js/main.b0d6269b.js"
   ]
 }
