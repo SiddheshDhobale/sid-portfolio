@@ -38,7 +38,7 @@
 }
 
 .nav-content img {
-    width: 18rem;
+    width: 15rem;
 }
 
 /* .site-name span{
@@ -161,7 +161,6 @@
         backdrop-filter: blur(200px);
     }
 
-
 }
 
 
@@ -202,4 +201,8 @@
         width: 15rem;
     } */
 
+    .nav-content>a>img{
+        width: 16rem;
+    }
+    
 }
