@@ -36,7 +36,9 @@ const Navbar = () => {
                 <div className="nav-content">
                     {/* <h4 className="site-name"><span style={{fontSize:'22px'}}>&lt;</span> Siddhesh Dhobale <span style={{fontSize:'25px'}}>&gt;</span></h4> */}
                     {/* <h3 className="site-name">Site Name</h3> */}
-                    <a href="/"><img src="./assets/images/logo_horizontal-removebg.png" alt="" /></a>
+                    <a href="https://siddheshdhobale.github.io/sid-portfolio/">
+                        <img src="./assets/images/Siddhesh_horizontal-removebg.png" alt="" />
+                    </a>
                     <ul>
 
                         {/* <li>
@@ -54,10 +56,10 @@ const Navbar = () => {
                         </li> */}
                         <li>
                             <Link
-                                to="skillset" 
-                                spy={true} 
-                                smooth={true} 
-                                offset={-118} 
+                                to="skillset"
+                                spy={true}
+                                smooth={true}
+                                offset={-118}
                                 duration={300}
                                 // onSetActive={handleSetActive}
                                 // onClick={handleClick} 
@@ -67,10 +69,10 @@ const Navbar = () => {
                         </li>
                         <li>
                             <Link
-                                to="experinces" 
-                                spy={true} 
-                                smooth={true} 
-                                offset={-118} 
+                                to="experinces"
+                                spy={true}
+                                smooth={true}
+                                offset={-118}
                                 duration={300}
                                 // onSetActive={handleSetActive}
                                 // onClick={handleClick}
@@ -80,10 +82,10 @@ const Navbar = () => {
                         </li>
                         <li>
                             <Link
-                                to="projects" 
-                                spy={true} 
-                                smooth={true} 
-                                offset={-118} 
+                                to="projects"
+                                spy={true}
+                                smooth={true}
+                                offset={-118}
                                 duration={300}
                                 // onSetActive={handleSetActive}
                                 // onClick={handleClick}
@@ -93,10 +95,10 @@ const Navbar = () => {
                         </li>
                         <li>
                             <Link
-                                to="contact" 
-                                spy={true} 
-                                smooth={true} 
-                                offset={-118} 
+                                to="contact"
+                                spy={true}
+                                smooth={true}
+                                offset={-118}
                                 duration={300}
                                 // onSetActive={handleSetActive}
                                 // onClick={handleClick}
