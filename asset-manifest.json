@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/sid-portfolio/static/css/main.7e2a70a5.css",
-    "main.js": "/sid-portfolio/static/js/main.51f359e1.js",
+    "main.css": "/sid-portfolio/static/css/main.33f8a218.css",
+    "main.js": "/sid-portfolio/static/js/main.b0d6269b.js",
     "static/js/453.1b3ba629.chunk.js": "/sid-portfolio/static/js/453.1b3ba629.chunk.js",
     "static/media/SiddheshDHOBALE_Resume.pdf": "/sid-portfolio/static/media/SiddheshDHOBALE_Resume.98c5afca39627b60347d.pdf",
     "static/media/slick.svg": "/sid-portfolio/static/media/slick.2630a3e3eab21c607e21.svg",
@@ -9,12 +9,12 @@
     "static/media/slick.ttf": "/sid-portfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/sid-portfolio/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/sid-portfolio/index.html",
-    "main.7e2a70a5.css.map": "/sid-portfolio/static/css/main.7e2a70a5.css.map",
-    "main.51f359e1.js.map": "/sid-portfolio/static/js/main.51f359e1.js.map",
+    "main.33f8a218.css.map": "/sid-portfolio/static/css/main.33f8a218.css.map",
+    "main.b0d6269b.js.map": "/sid-portfolio/static/js/main.b0d6269b.js.map",
     "453.1b3ba629.chunk.js.map": "/sid-portfolio/static/js/453.1b3ba629.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7e2a70a5.css",
-    "static/js/main.51f359e1.js"
+    "static/css/main.33f8a218.css",
+    "static/js/main.b0d6269b.js"
   ]
 }
